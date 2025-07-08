@@ -3,7 +3,7 @@
 
 # FQHC Performance Analysis: Texas vs. Top Performing States
 
-This project analyzes Federally Qualified Health Center (FQHC) performance metrics across multiple states using 5 years of Uniform Data System (UDS) data provided by HRSA. The goal is to compare Texas with high-performing states on key public health indicators to identify opportunities for improvement.
+(copied from Stephanie) This project analyzes Federally Qualified Health Center (FQHC) performance metrics across multiple states using 5 years of Uniform Data System (UDS) data provided by HRSA. The goal is to compare Texas with high-performing states on key public health indicators to identify opportunities for improvement.
 
 ## 📊 Project Goals
 
